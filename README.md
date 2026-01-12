@@ -4,7 +4,7 @@ Machine learning–based lung cancer detection system using Python\
 lung-cancer-detection-ml/
 │
 ├── data/
-│   └── dataset.csv
+│└── dataset.csv
 │
 ├── notebooks/
 │   └── EDA.ipynb
