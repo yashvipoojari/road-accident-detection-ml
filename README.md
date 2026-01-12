@@ -12,6 +12,7 @@ This project implements a Machine Learning–based Road Accident Detection Syste
 
 ## Dataset
 - Source: Kaggle
+- /kaggle/input/india-road-accident-dataset-predictive-analysis/accident_prediction_india.csv
 - The dataset contains traffic and road-related attributes used to classify accident occurrences.
 - Includes features such as vehicle parameters, environmental conditions, and accident indicators.
 
@@ -20,7 +21,7 @@ This project implements a Machine Learning–based Road Accident Detection Syste
 2. Exploratory Data Analysis (EDA)  
 3. Feature engineering and selection  
 4. Model training and evaluation  
-5. Performance comparison of multiple classifiers  
+5. Performance comparison of multiple classifier.
 
 ## Models Implemented
 - Logistic Regression  
@@ -42,3 +43,4 @@ These results demonstrate the effectiveness of machine learning techniques in id
 ```bash
 pip install -r requirements.txt
 python src/train.py
+[main-proj (4).ipynb](https://github.com/user-attachments/files/24557581/main-proj.4.ipynb)
